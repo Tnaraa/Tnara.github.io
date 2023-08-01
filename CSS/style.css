@@ -1,12 +1,12 @@
 body{ 
     max-width: 285px;
     margin: auto;
-    margin-top: 100px;
+    margin-top: 144px;
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
 }
 
-.bordas {
+.bordas{
     padding-top: 15px;
     font-family: 'Outfit', sans-serif;
     text-align: center;
@@ -34,10 +34,12 @@ body{
 .attribution{
     text-align: center;
     font-size: 10px;
-    margin-top: 15%;
+    margin-bottom: 0;
 }
 
 img{
     display: inline-block;
     border-radius: 10px;
+    width: 270px;
 }
+    
