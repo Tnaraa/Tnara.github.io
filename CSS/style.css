@@ -6,7 +6,7 @@ body{
     background-color: hsl(212, 45%, 89%);
 }
 
-.bordas{
+.bordas {
     padding-top: 15px;
     font-family: 'Outfit', sans-serif;
     text-align: center;
@@ -42,4 +42,3 @@ img{
     border-radius: 10px;
     width: 270px;
 }
-    
