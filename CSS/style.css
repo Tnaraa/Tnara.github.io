@@ -30,15 +30,14 @@ body{
     padding-left: 20px; 
     padding-bottom: 30px;
 }
-
-.attribution{
-    text-align: center;
-    font-size: 10px;
-    margin-bottom: 0;
-}
-
 img{
     display: inline-block;
     border-radius: 10px;
     width: 270px;
 }
+
+.attribution{
+    text-align: center;
+    font-size: 10px;
+}
+
